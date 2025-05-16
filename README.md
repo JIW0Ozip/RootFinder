@@ -77,5 +77,5 @@ DBMS: Oracle
 
 
 # ⛓ DB 다이어그램
-![image](https://github.com/user-attachments/assets/70b748f5-106d-4155-bb3a-08a3997c0888)
+![rootfinderDB](https://github.com/user-attachments/assets/0ec09018-0fd8-4082-be96-5dfcbf8384b0)
 
