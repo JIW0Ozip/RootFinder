@@ -35,7 +35,7 @@ Java 11
 IDE: Eclipce
 
 
-DBMS: Oracle (Sql Developer)
+DBMS: Oracle
 
 
 동적 콘텐츠 처리: Servlet, JSP
