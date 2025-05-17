@@ -74,7 +74,27 @@ DBMS: Oracle
 
 # 📌 주요 기능
 
-![스크린샷 2025-05-18 010926](https://github.com/user-attachments/assets/896773f5-73a5-4dc2-8452-76d3a2a90851)
+![스크린샷 2025-05-18 010926](https://github.com/user-attachments/assets/26c33a95-b1ba-48e9-927d-281ce28ff789)
+![스크린샷 2025-05-18 011349](https://github.com/user-attachments/assets/b4573864-e521-44fa-9d23-ec49dc841ec5)
+![스크린샷 2025-05-18 011355](https://github.com/user-attachments/assets/0625ea82-ab41-44a8-bf81-3611479be9e9)
+![스크린샷 2025-05-18 011402](https://github.com/user-attachments/assets/8d3835d9-c9b7-4874-b27f-2b558ea21834)
+![스크린샷 2025-05-18 011407](https://github.com/user-attachments/assets/7855c9b5-74a1-495c-826d-32e6e4d6f228)
+![스크린샷 2025-05-18 011413](https://github.com/user-attachments/assets/2b82a936-56fc-4ef3-99d5-e45ac6797887)
+![스크린샷 2025-05-18 011419](https://github.com/user-attachments/assets/9d77c909-29a5-4d2c-a50d-da93938dbc13)
+![스크린샷 2025-05-18 011426](https://github.com/user-attachments/assets/01481358-5ba3-4e72-9a2f-44f1b6541978)
+![스크린샷 2025-05-18 011431](https://github.com/user-attachments/assets/f3475c37-4c3a-4db6-947f-692f657383f4)
+![스크린샷 2025-05-18 011436](https://github.com/user-attachments/assets/0918560f-5e8d-4698-9893-e923b156270b)
+![스크린샷 2025-05-18 011441](https://github.com/user-attachments/assets/135acf8a-685b-43ed-861c-b5bd7acd0afd)
+![스크린샷 2025-05-18 011446](https://github.com/user-attachments/assets/a8ea9ed3-5938-472f-879b-a2ad4d461670)
+![스크린샷 2025-05-18 011452](https://github.com/user-attachments/assets/d738594a-e5b0-4867-aa31-5bf900b8b8ca)
+![스크린샷 2025-05-18 011457](https://github.com/user-attachments/assets/8b2e1c8d-7e3d-4f64-956a-0cd094ca3129)
+![스크린샷 2025-05-18 011505](https://github.com/user-attachments/assets/34a17f8a-835a-4d3d-9b78-55a18937c35b)
+![스크린샷 2025-05-18 011511](https://github.com/user-attachments/assets/3ef33575-4e84-42b3-acc1-bd653a7a563b)
+![스크린샷 2025-05-18 011518](https://github.com/user-attachments/assets/e36d5958-736c-4475-bc82-72490d72ac07)
+![스크린샷 2025-05-18 011525](https://github.com/user-attachments/assets/4ab934a1-0cf9-4b1c-b08d-2adf117e5054)
+![스크린샷 2025-05-18 011533](https://github.com/user-attachments/assets/b611843d-2a97-4be6-94f8-2d0c60a6a1ba)
+![스크린샷 2025-05-18 011539](https://github.com/user-attachments/assets/fac5723a-fc49-4b3e-ac04-aff11d8495a5)
+![스크린샷 2025-05-18 011545](https://github.com/user-attachments/assets/829ce29d-e4d3-4d22-838d-f796ed96ddd2)
 
 
 # ⛓ DB 다이어그램
